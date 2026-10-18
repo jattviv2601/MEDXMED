@@ -1,0 +1,6 @@
+{
+  "name": "MEDXMED",
+  "description": "Medical & Clinical Learning Platform with flashcards, MCQs, profs, and Pomodoro study tools",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

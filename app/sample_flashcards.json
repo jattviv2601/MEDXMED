@@ -1,0 +1,16 @@
+[
+  {
+    "questionNo": 1,
+    "question": "What is the primary function of the mitochondria?",
+    "answer": "The primary function of the mitochondria is to generate most of the chemical energy needed to power the cell's biochemical reactions.",
+    "questionImageUrl": "",
+    "answerImageUrl": ""
+  },
+  {
+    "questionNo": 2,
+    "question": "Identify the structure shown in the image.",
+    "answer": "This is a neuron (nerve cell).",
+    "questionImageUrl": "https://example.com/neuron_image.jpg",
+    "answerImageUrl": ""
+  }
+]
